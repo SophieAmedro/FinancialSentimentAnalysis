@@ -16,10 +16,5 @@ Phrases financières avec étiquettes de sentiment.
 - numpy==1.19.5
 - pandas==1.3.3
 - matplotlib==3.2.1
-- seaborn ==
 
-library  
-- nltk
-- wordcloud
-- collections
-- afinn
+
